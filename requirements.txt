@@ -1,1 +1,6 @@
-numpysklearnsentence_transformersuvicornpydanticfastapi
+numpy
+sklearn
+sentence_transformers
+uvicorn
+pydantic
+fastapi
